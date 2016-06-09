@@ -1,4 +1,4 @@
-Progressive Projects List
+FZB Progressive Projects List
 =========================
 The project was based redmine-progressive-project-list
 
