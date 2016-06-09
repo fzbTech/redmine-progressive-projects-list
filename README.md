@@ -29,23 +29,15 @@ Generic instructions for installing/uninstalling plugins can be found at [Redmin
 
 ### Compatibility ###
 
-- Redmine 3.0 .. 3.2 - [version 3.0.1](https://github.com/stgeneral/redmine-progressive-projects-list/releases/tag/v3.0.1) and branch [master](https://github.com/stgeneral/redmine-progressive-projects-list/tree/master).
-- Redmine 2.3 .. 3.0 - [version 2.0.1](https://github.com/stgeneral/redmine-progressive-projects-list/releases/tag/v2.0.1).
+- Redmine 3.2
 
-Proressive plugins for Redmine
-------------------------------
-
-* [Progressive Projects List](http://stgeneral.github.io/redmine-progressive-projects-list/) - overall projects status on one page.
-* [Progressive Redmine Theme](http://stgeneral.github.io/redmine-progressive-theme/) - extends default theme with some nice features.
-* [Progressive Gantt Mods](http://stgeneral.github.io/redmine-progressive-gantt-mods/) - assignee column and some preferences for Gantt chart.
-* [Collapsed Journals Plugin](https://github.com/stgeneral/redmine-collapsed-journals) - collapses issue history items without an assosiated note
 
 License
 -------
 
 *The MIT License (MIT)*
 
-Copyright (c) 2012-2016 Dmitry Babenko
+Copyright (c) 2012-2016 Peter Du & Dmitry Babenko
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
