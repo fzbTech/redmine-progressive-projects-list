@@ -1,15 +1,15 @@
-unless File.basename(File.dirname(__FILE__)) == 'progressive_projects_list'
-  raise "Progressive Project List plugin directory should be 'progressive_projects_list' instead of '#{File.basename(File.dirname(__FILE__))}'"
+unless File.basename(File.dirname(__FILE__)) == 'fzb_progressive_projects_list'
+  raise "Progressive Project List plugin directory should be 'fzb_progressive_projects_list' instead of '#{File.basename(File.dirname(__FILE__))}'"
 end
 
 Redmine::Plugin.register :progressive_projects_list do
   name 'Progressive Projects List plugin'
-  author 'Dmitry Babenko'
+  author 'Peter Du & Dmitry Babenko'
   description 'Projects List with menus and progress bars.'
-  version '3.0.1'
-  url 'http://stgeneral.github.io/redmine-progressive-projects-list/'
-  author_url 'https://github.com/stgeneral'
-  requires_redmine :version_or_higher => '3.0'
+  version '3.1.1'
+  url 'http://github.com/fzbTech/redmine-progressive-projects-list/'
+  author_url 'https://github.com/fzbtech'
+  requires_redmine :version_or_higher => '3.4'
 
   settings :default => {
     'show_project_description'  => false,
